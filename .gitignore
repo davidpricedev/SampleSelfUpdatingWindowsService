@@ -194,3 +194,12 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+
+# Binaries
+*.dll
+*.exe
+
+# Junk
+*.xml
+*.exe.config
