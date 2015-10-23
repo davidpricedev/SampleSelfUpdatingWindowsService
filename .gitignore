@@ -203,3 +203,4 @@ FakesAssemblies/
 # Junk
 *.xml
 *.exe.config
+*.exe.manifest
