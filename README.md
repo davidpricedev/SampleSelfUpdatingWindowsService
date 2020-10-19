@@ -1,5 +1,5 @@
 # SampleSelfUpdatingWindowsService
-Testing a TopShelf service that can update itself
+Testing a TopShelf service that can update itself. This is just a sample of what can be done. For a more powerful approach, take a look at [Google Omaha](https://omaha-consulting.com/auto-update-your-windows-service-with-google-omaha).
 
 ## To test:
 
@@ -8,10 +8,6 @@ Testing a TopShelf service that can update itself
 1. Install the service in the Run folder `SampleTopshelfSvc.exe install`
 1. Start the service `net start SampleTopshelfSvc`
 1. Wait a while and check the version number of the executable in the run folder, it should be the upgraded version.
-
-## Note
-
-Obviously this code is a sample of what can be done and is in no way ready for any production environment.
 
 ## Other options for self-updating windows service
 
